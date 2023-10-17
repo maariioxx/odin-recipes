@@ -1,0 +1,14 @@
+* {
+    font-family: fantasy, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+img {
+    border: 2px solid blue;
+}
