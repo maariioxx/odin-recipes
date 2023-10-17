@@ -30,3 +30,13 @@ a {
 a:hover{
     color: #1D7874;
 }
+
+#return-button {
+    display: block;
+    text-align: center;
+}
+
+.main-word {
+    font-size: 20px;
+    font-weight: bold;
+}
