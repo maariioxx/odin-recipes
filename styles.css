@@ -1,7 +1,7 @@
-* {
+body {
     font-family: fantasy, sans-serif;
-    background-color: black;
-    color: white;
+    background-color: bisque;
+    color: black;
 }
 
 h1 {
@@ -9,6 +9,24 @@ h1 {
     
 }
 
-img {
-    border: 2px solid blue;
+img, .recipes {
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.recipes {
+    background-color: bisque;
+    padding: 10px;
+}
+
+.list {
+    margin: 15px;
+}
+
+a {
+    text-decoration: none; color: black;
+}
+
+a:hover{
+    color: #1D7874;
 }
